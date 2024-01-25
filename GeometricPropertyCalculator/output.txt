@@ -1,0 +1,30 @@
+Shape: Rectangle
+Calculation Type: Perimeter, Result: 18
+Shape: Circle
+Calculation Type: Area, Result: 50.2655
+Shape: Triangle
+Calculation Type: Area, Result: 1.98431
+Shape: Rectangle
+Calculation Type: Perimeter, Result: 18
+Shape: Circle
+Calculation Type: Area, Result: 201.062
+Shape: Triangle
+Calculation Type: Area, Result: 7.48331
+Shape: Rectangle
+Calculation Type: Area, Result: 18
+Shape: Circle
+Calculation Type: Area, Result: 12.5664
+Shape: Rectangle
+Calculation Type: Area, Result: 25
+Shape: Triangle
+Calculation Type: Area, Result: 4.49305
+Shape: Circle
+Calculation Type: Area, Result: 153.938
+Shape: Rectangle
+Calculation Type: Area, Result: 24
+Shape: Circle
+Calculation Type: Area, Result: 254.469
+Shape: Triangle
+Calculation Type: Area, Result: 0
+4.469
+Shape: TRIANGLE, Calculation Type: Area, Result: 0
