@@ -1,0 +1,23 @@
+I have spent a total of 20 hours just this week on this project. 
+Currently as I am writing this it is 2:18 AM and I am nowhere close to having my code function. 
+I will not be in class on Thursday because I can feel myself getting sick. 
+Please for the next projects be more precise in the specific requirements and to provide an example of how to do what it is you are asking us to do. 
+This is the only coding class I have had where the examples from lecture are so far removed from what is being asked of us in homeworks/projects. 
+I tried using header files, but it couldn't properly read the file because of the variable spacing of lines and spaces and indents. 
+I tried using vectors, which initially seemed more promising but I can not get it to not crash once data has been prepped for searching. 
+I attempted a linked list to store specific data that may be of interest along with the page number of this information. Nothing works. 
+And I feel quite discouraged that my functional code for Project 1 got only 60%. 
+I just want to sleep but I can’t because this code will not function the way I want it to. 
+I understand the concepts of C++ and error catching and headers and regex. I just need some guidance on how to apply it in a similar situation as to what we are being asked to do. 
+3 AM now and I still can not get any regex to work with the amount of information you are asking us to beagle to provide. I think I have to call it at 3:30.
+3:30. The scrawlings of someone who is starting to doubt their computer science minor. I have tried everything other than just brute forcing an answer for each known item, maybe I will try that in the morning. In 3 hours. 
+I could not sleep because I have never had a project I could not finish. Yet no matter what I try, no matter what youtube tutorials I look up or what examples from class I bend and break, my code will not work. 
+And I am sure I will get points off for not having the output.txt but I can’t have that when my code keeps terminating. This whole week I was somewhat stressed but not dying because I thought I was getting close. But each day I would spend an hour or two trying new things or attempting to refine the old. 
+But I just can’t get it to work. I think my only option is to brute force the answers which I don’t have the time for now. Please be understanding when grading, I have never struggled nor tried so hard for an assignment and still be completely lost.
+I just restarted this morning trying to clean up the code. I do not understand what you mean in class by the running it on the command line because you have never showed us how to do this. Please even if it is just a video you place in blackboard.
+It is 11:50 on Thursday. I have spent so long rewriting using what should work. I do not understand how to make it work. 
+I got it to work once but the next time I tried to run the code, it said I had a new error and when I fixed that error the code no longer worked. 
+Please be lenient. 
+I know it does not do what you asked 
+but I also have put almost 35 hours into this project this week. 
+I got it to sort through and find the items based on page number, which admittedly can be pretty tricky because of how common numbers are in a 10-K. I will continue to clean it up and turn it in at 12:10.
