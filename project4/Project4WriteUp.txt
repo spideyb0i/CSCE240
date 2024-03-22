@@ -1,0 +1,15 @@
+Project 4 write up
+Charlie Grant
+I have done it mostly. 
+I had to add a new way to detect the value for EA because it was unreliably flagging the lines when using more than 1 word. 
+I used regex and just made a large amount of instances to pull from. I am able to handle any kind of input but the kind that outputs some kind of text is still somewhat rigid. 
+However, I did implement the match idea from class, however it does not take into account alternate words which is why I provide the list of items and the barrier is quite low. 
+There are multiple comments in the code that display my testing as I was running into a lot of trouble specifically with EA. 
+I might eventually change how the file is chosen because currently the user selects 1 or 2 and then asks questions, because the structure of my code would be so changed from implementing the detection of which company is being talked about in the question. 
+That being said, I am content with how the code works. I also did not make the same mistake I made in my last project. 
+I often code in the same project that I used for the last one and then rename it right before I turn it in. 
+But I forgot to build the code last time meaning the debug was still for project 2 and did not match project 3. 
+For some reason, right now in eclipse it says there are multiple errors in almost every class, but it runs great without issues. 
+If you could explain why the code repeats at first when the company is chosen that would be great. 
+Please be kind, I wanted an A in this class, don’t think it is possible anymore.
+Also I don’t have many comments because I feel the titles of the classes and patterns kind of explain themselves in the name.
