@@ -1,0 +1,12 @@
+Chat 1 has user asking 3 times and the system responding 3 times. Total duration is 115 seconds
+Chat 2 has user asking 11 times and the system responding 11 times. Total duration is 235 seconds
+Chat 3 has user asking 3 times and the system responding 3 times. Total duration is 152 seconds
+Chat 4 has user asking 1 times and the system responding 1 times. Total duration is 165 seconds
+Chat 5 has user asking 8 times and the system responding 8 times. Total duration is 264 seconds
+Chat 6 has user asking 1 times and the system responding 1 times. Total duration is 20 seconds
+Chat 7 has user asking 4 times and the system responding 4 times. Total duration is 559 seconds
+Chat 8 has user asking 5 times and the system responding 5 times. Total duration is 47 seconds
+Chat 9 has user asking 2 times and the system responding 2 times. Total duration is 110 seconds
+Chat 10 has user asking 2 times and the system responding 2 times. Total duration is 15 seconds
+Chat 11 has user asking 2 times and the system responding 2 times. Total duration is 11 seconds
+Chat 12 has user asking 10 times and the system responding 10 times. Total duration is 433 seconds

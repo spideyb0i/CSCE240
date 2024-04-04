@@ -1,0 +1,61 @@
+EAdata.txt
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+showchat 6
+EAdata.txt
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+quit
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+showchat-summary 3
+Chat 3 has user asking 3 times and the system responding 3 times. Total duration is 152 seconds
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+showchat-summary 7
+Chat 7 has user asking 4 times and the system responding 4 times. Total duration is 559 seconds
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+summary
+There are 7 chats to date with user asking 7993840 questions and system responding 7993809 times. Total duration is -7.000000 seconds
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+quit
