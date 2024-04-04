@@ -1,0 +1,17 @@
+Project 5 write up
+Charlie Grant
+I hope this one runs in the terminal. 
+I have no clue how to fix this issue and am upset because my previous two projects worked with 95% accuracy at least.
+I do not believe my work has deserved a 75 for those two projects, but I have not had the time between my job, research , and classes to discuss this.
+Anyway, I used a public variable to track in each session the questions asked and answered.
+There is now a way for the questions asked and answers given to be uneven if the system responds "I don't know".
+I then used the <chrono> and auto start, stop, and duration to track the time of each session.
+Then using the "ChatStats" file, I read the last line to check what the last session number was, and add 1 to that when creating the new session file.
+My most useful method is the checkSession that does the mentioned function, but it also allows me to easily answer how many chats there have been.
+The problem I ran into was with parsing all four numbers from the lines in the ChatStats file.
+I ended up having to just count how many words were between each number and push those to a string to make the number the front of the line.
+I also still have the problem of everytime the company is chosen, the qloop repeats twice instead of just occurring once.
+My chitchat function also does not always match with what it should.
+For example, the question "what is the weather today" does not match but the phrase "how is the weather" does match with the regex "weather".
+I don't know how to fix this and since I have a catch all for any question I haven't covered for in chitchat I was not too worried.
+And yes I know the file is called CSCE250data instead of CSCE240 but I don't feel like replacing it in the code.
