@@ -1,0 +1,23 @@
+EAdata.txt
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+summary
+There are 10 chats to date with user asking 40 questions and system responding 40 times. Total duration is 1682.000000 seconds
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+quit

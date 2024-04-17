@@ -1,0 +1,50 @@
+Microsoftdata.txt
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+Microsoftdata.txt
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+help
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+EAdata.txt
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+
+What would you like to know?
+Type 'list' to see item list
+Type 'change' to switch companies
+Type 'chat' to chit chat
+Type 'quit' to end session
+Or use the given -Summary commands
+quit
